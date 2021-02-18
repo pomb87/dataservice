@@ -13,6 +13,8 @@ npm install express -g
 node server.js
 7. install csvtojson
 npm install csvtojson --save
+8. install cors
+npm install cors
 
 
 # build package
